@@ -1,0 +1,12 @@
+C:\Users\charl>ping google.com
+
+Pinging google.com [192.178.192.113] with 32 bytes of data:
+Reply from 192.178.192.113: bytes=32 time=2ms TTL=113
+Reply from 192.178.192.113: bytes=32 time=3ms TTL=113
+Reply from 192.178.192.113: bytes=32 time=3ms TTL=113
+Reply from 192.178.192.113: bytes=32 time=17ms TTL=113
+
+Ping statistics for 192.178.192.113:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 17ms, Average = 6ms

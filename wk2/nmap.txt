@@ -1,0 +1,55 @@
+----------------------------------------
+Command: nmap scanme.nmap.org
+----------------------------------------
+
+Starting Nmap 7.93 ( https://nmap.org ) at 2026-01-21 18:25 UTC
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.17s latency).
+Not shown: 997 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+9929/tcp open  nping-echo
+
+Nmap done: 1 IP address (1 host up) scanned in 2.94 seconds
+
+----------------------------------------
+Command: nmap -p 80 scanme.nmap.org
+----------------------------------------
+
+Starting Nmap 7.93 ( https://nmap.org ) at 2026-01-21 18:26 UTC
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.17s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.44 seconds
+
+----------------------------------------
+Command: nmap -p 1-200 scanme.nmap.org
+----------------------------------------
+
+Starting Nmap 7.93 ( https://nmap.org ) at 2026-01-21 18:26 UTC
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.17s latency).
+Not shown: 198 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 4.12 seconds
+
+----------------------------------------
+Command: nmap -F scanme.nmap.org
+----------------------------------------
+
+Starting Nmap 7.93 ( https://nmap.org ) at 2026-01-21 18:27 UTC
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.17s latency).
+Not shown: 98 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.53 seconds

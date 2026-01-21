@@ -1,0 +1,56 @@
+oceancloud.com
+WHOIS Information
+
+IP Address: 208.91.197.39
+Hostname	IP Address
+dns101.register.com	162.159.24.117
+dns102.register.com	162.159.25.158
+
+github.com
+WHOIS Information
+
+IP Address: 140.82.113.3
+Nameservers
+Hostname	IP Address
+dns1.p08.nsone.net	198.51.44.8
+dns2.p08.nsone.net	198.51.45.8
+dns3.p08.nsone.net	198.51.44.72
+dns4.p08.nsone.net	198.51.45.72
+ns-520.awsdns-01.net	205.251.194.8
+ns-421.awsdns-52.com	205.251.193.165
+ns-1707.awsdns-21.co.uk	205.251.198.171
+ns-1283.awsdns-32.org	205.251.197.3
+
+who.is
+WHOIS Information
+
+IP Address: 34.193.59.245
+Nameservers
+Hostname	IP Address
+ns-1048.awsdns-03.org	205.251.196.24
+ns-540.awsdns-03.net	205.251.194.28
+ns-232.awsdns-29.com	205.251.192.232
+ns-1741.awsdns-25.co.uk	205.251.198.205
+
+dell.com
+WHOIS Information
+
+IP Address: 143.166.30.172
+Nameservers
+Hostname	IP Address
+ns1ak.dell.com	193.108.91.65
+ns1ns.dell.com	162.159.9.149
+ns2ak.dell.com	96.7.49.65
+ns2ns.dell.com	198.41.223.90
+ns3ak.dell.com	23.211.133.64
+ns3ns.dell.com	162.159.9.149
+
+ubuntu.com
+WHOIS Information
+
+IP Address: 185.125.190.21
+Nameservers
+Hostname	IP Address
+ns1.canonical.com	185.125.190.65
+ns2.canonical.com	185.125.190.66
+ns3.canonical.com	185.125.190.66

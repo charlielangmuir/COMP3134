@@ -1,0 +1,90 @@
+IPv4 addresses
+IPv4 address	Revalidate in
+198.96.86.176	10m
+Question and response
+Question
+dig @one.one.one.one. georgebrown.ca. A
+Answer
+georgebrown.ca.	600	A	198.96.86.176
+Authority
+Additional
+Question
+dig @one.one.one.one. georgebrown.ca. AAAA
+Answer
+Authority
+georgebrown.ca.	3600	SOA	ns1.georgebrown.ca. hostmaster.georgebrown.ca. 2015053597 600 600 1209600 3600
+Additional
+
+IPv4 addresses
+IPv4 address	Revalidate in
+172.217.168.206	4m 7s
+IPv6 addresses
+IPv6 address	Revalidate in
+2a00:1450:400e:801::200e	1m 18s
+Question and response
+Question
+dig @one.one.one.one. google.com. A
+Answer
+google.com.	247	A	172.217.168.206
+Authority
+Additional
+Question
+dig @one.one.one.one. google.com. AAAA
+Answer
+google.com.	78	AAAA	2a00:1450:400e:801::200e
+
+IPv4 addresses
+IPv4 address	Revalidate in
+188.114.97.0	5m
+188.114.96.0	5m
+IPv6 addresses
+IPv6 address	Revalidate in
+2a06:98c1:3121::0	5m
+2a06:98c1:3120::0	5m
+Question and response
+Question
+dig @one.one.one.one. nslookup.io. A
+Answer
+nslookup.io.	300	A	188.114.97.0
+nslookup.io.	300	A	188.114.96.0
+Authority
+Additional
+Question
+dig @one.one.one.one. nslookup.io. AAAA
+Answer
+nslookup.io.	300	AAAA	2a06:98c1:3121::0
+nslookup.io.	300	AAAA	2a06:98c1:3120::0
+
+IPv4 addresses
+IPv4 address	Revalidate in
+142.251.142.206	3m 52s
+IPv6 addresses
+IPv6 address	Revalidate in
+2a00:1450:400e:80e::200e	3m 15s
+Question and response
+Question
+dig @one.one.one.one. youtube.com. A
+Answer
+youtube.com.	232	A	142.251.142.206
+Authority
+Additional
+Question
+dig @one.one.one.one. youtube.com. AAAA
+Answer
+youtube.com.	195	AAAA	2a00:1450:400e:80e::200e
+
+IPv4 addresses
+IPv4 address	Revalidate in
+184.24.17.246	11s
+Question and response
+Question
+dig @one.one.one.one. lenovo.com. A
+Answer
+lenovo.com.	11	A	184.24.17.246
+Authority
+Additional
+Question
+dig @one.one.one.one. lenovo.com. AAAA
+Answer
+Authority
+lenovo.com.	6537	SOA	a1-79.akam.net. baibt1.lenovo.com. 1833031261 21600 3600 604800 7200
